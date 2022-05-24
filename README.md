@@ -1,13 +1,15 @@
-Hi 👋 My name is Rosy Mariana
+Hi 👋 Meu nome é Rosy Mariana
 =============================
 
-Mechanical Engineer and Web Development student
+Engenheira Mecânica com pós graduação em Engenharia de Produção
 -----------------------------------------------
 
-I have always been passionate about technology and due to my affinity with exact sciences I chose the Mechanical Engineering course to try to put all this passion into practice. However, during my journey I realized that it was programming that I found myself, so being able to work in the area became a big dream. At the end of my graduation I found at Trybe the possibility of realizing this dream and today I am a student of Web Development. I love to "code" and learn more and more every day.
+Sempre fui apaixonada por tecnologia e devido à minha afinidade com exatas escolhi o curso de Engenharia Mecânica para tentar colocar em prática toda essa paixão. Porém, durante minha jornada percebi que foi programando que me encontrei, então poder trabalhar na área se tornou um grande sonho. Ao final da minha graduação encontrei na Trybe a possibilidade de realizar esse sonho e hoje sou estudante de Desenvolvimento Web. Adoro "codar" e aprender mais e mais a cada dia.
 
-* 🌍  I'm based in Diamantina-MG, Brazil
-* ✉️  You can contact me at [rosyy.mariana@gmail.com](mailto:rosyy.mariana@gmail.com)
-* 🧠  I'm learning Web Development
-* ⚡ Fun fact: I love Pugs, I have a pug named Panqueca (Pancake)
+* 🌍  Atualmente moro Diamantina-MG, Brasil
+* 🧠  Sou estudante de Desenvolvimento Web
+* :computer: As principais tecnologias que domino são: JavaScript, HTML, CSS, C e C++;
+* ✉️  Você pode entrar em contato comigo pelo: [rosyy.mariana@gmail.com](mailto:rosyy.mariana@gmail.com)
+* :link: https://www.linkedin.com/in/rosy-mariana-nunes-dos-santos/
+* ⚡ Fato divertido: Tenho uma Pug chamada Panqueca 🐶
 
