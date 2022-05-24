@@ -1,4 +1,4 @@
-Hi 👋 Meu nome é Rosy Mariana
+Olá 👋 Meu nome é Rosy Mariana
 =============================
 
 Engenheira Mecânica com pós graduação em Engenharia de Produção
