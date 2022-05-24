@@ -9,7 +9,7 @@ Sempre fui apaixonada por tecnologia e devido à minha afinidade com exatas esco
 * 🌍  Atualmente moro Diamantina-MG, Brasil
 * 🧠  Sou estudante de Desenvolvimento Web
 * :computer: As principais tecnologias que domino são: JavaScript, HTML, CSS, C e C++;
-* ✉️  Você pode entrar em contato comigo pelo: [rosyy.mariana@gmail.com](mailto:rosyy.mariana@gmail.com)
-* :link: https://www.linkedin.com/in/rosy-mariana-nunes-dos-santos/
+* ✉️  Você pode entrar em contato comigo pelo email: [rosyy.mariana@gmail.com](mailto:rosyy.mariana@gmail.com)
+* :link: e Linkedin: https://www.linkedin.com/in/rosy-mariana-nunes-dos-santos/
 * ⚡ Fato divertido: Tenho uma Pug chamada Panqueca 🐶
 
